@@ -1,0 +1,15 @@
+D:\Uni\Programista\EventManager\EventManager\bin\Debug\EventManager.exe.config
+D:\Uni\Programista\EventManager\EventManager\bin\Debug\EventManager.exe
+D:\Uni\Programista\EventManager\EventManager\bin\Debug\EventManager.pdb
+D:\Uni\Programista\EventManager\EventManager\bin\Debug\EntityFramework.dll
+D:\Uni\Programista\EventManager\EventManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni\Programista\EventManager\EventManager\bin\Debug\EntityFramework.xml
+D:\Uni\Programista\EventManager\EventManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.csprojResolveAssemblyReference.cache
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.Properties.Resources.resources
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.csproj.GenerateResource.Cache
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.exe
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.pdb
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.GUI.MainForm.resources
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.GUI.addEditLocation.resources
+D:\Uni\Programista\EventManager\EventManager\obj\Debug\EventManager.GUI.addEditEvent.resources
